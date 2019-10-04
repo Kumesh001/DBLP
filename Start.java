@@ -25,9 +25,9 @@ public class Start {
 
 		
 	         
-		  JPanel panel1 = WestPanel();										//left	
-		  JPanel panel2 = new JPanel();										//right	
-		  JPanel panel3 = new JPanel();										//upper
+		  JPanel panel1 = WestPanel();										//left panel
+		  JPanel panel2 = new JPanel();										//right	panel
+		  JPanel panel3 = new JPanel();										//upper panel
 		  panel3.setLayout(new BorderLayout());
 		 
 		  JLabel label1 = new JLabel("DBLP QUERY SEARCH ENGINE",JLabel.CENTER);
